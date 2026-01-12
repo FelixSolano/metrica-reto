@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "beP6EYjy074=",
+  "success": true,
+  "projectFilePath": "E:\\Proyectos\\metrica\\metrica-reto\\back-end\\src\\MetricaReto.Application\\MetricaReto.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+E:\Proyectos\metrica\metrica-reto\back-end\src\MetricaReto.API\obj\Debug\net10.0\MetricaReto.API.csproj.AssemblyReference.cache
+E:\Proyectos\metrica\metrica-reto\back-end\src\MetricaReto.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Proyectos\metrica\metrica-reto\back-end\src\MetricaReto.API\obj\Debug\net10.0\MetricaReto.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\metrica\metrica-reto\back-end\src\MetricaReto.API\obj\Debug\net10.0\MetricaReto.API.AssemblyInfoInputs.cache
+E:\Proyectos\metrica\metrica-reto\back-end\src\MetricaReto.API\obj\Debug\net10.0\MetricaReto.API.AssemblyInfo.cs
+E:\Proyectos\metrica\metrica-reto\back-end\src\MetricaReto.API\obj\Debug\net10.0\MetricaReto.API.csproj.CoreCompileInputs.cache
+E:\Proyectos\metrica\metrica-reto\back-end\src\MetricaReto.API\obj\Debug\net10.0\MetricaReto.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Proyectos\metrica\metrica-reto\back-end\src\MetricaReto.API\obj\Debug\net10.0\MetricaReto.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Proyectos\metrica\metrica-reto\back-end\src\MetricaReto.API\obj\Debug\net10.0\MetricaReto.API.sourcelink.json
